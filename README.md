@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 🤝 I’m looking for help with **front End and Backend development**
+- 🤝 I’m looking for help with **frontend and Backend development**
 
 - 💬 Ask me about **React,Node**
 
-- 📫 How to reach me **paragjagdale007@gmail.com**
+- 📫 How to reach me **paragj2801@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
