@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imparag28&label=Profile%20views&color=0e75b6&style=flat" alt="imparag28" /> </p>
+<p align="left"> <a href="https://twitter.com/axpa28" target="blank"><img src="https://img.shields.io/twitter/follow/axpa28?logo=twitter&style=for-the-badge" alt="axpa28" /></a>
 
 - 🔭 I’m currently working on **React**
 
