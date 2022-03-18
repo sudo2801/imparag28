@@ -1,34 +1,66 @@
-<h1 align="center">Hi 👋, I'm Parag Jagadale</h1>
-<h3 align="center">A passionate full stack web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imparag28&label=Profile%20views&color=0e75b6&style=flat" alt="imparag28" /> </p>
-<p align="left"> <a href="https://twitter.com/axpa28" target="blank"><img src="https://img.shields.io/twitter/follow/axpa28?logo=twitter&style=for-the-badge" alt="axpa28" /></a>
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  </a>
+</h1>
+<h2 align="center">I'm Parag Jagadale, a Full-Stack Web Developer 👨‍💻 🚀</h2>  
+  <br/>
+<br/>
+<br/>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"">
+</a>
 
-- 🔭 I’m currently working on **React**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **MERN Full Stack Web Development**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Web Development**
+-  ❓ Ask me about anything related to MERN stack and related technologies  
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Coding can “power up” your brain 😁**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+<br/>
+<br/>
 
-- 💬 Ask me about **Web, MERN, Data Structures & Algorithm**
 
-- 📫 How to reach me **paragj2801@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://gpvc.arturio.dev/imparag28" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=imparag28&style=flat&color=brightgreen"> -->
+  <img src="https://img.shields.io/github/stars/imparag28?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+ <img src="https://img.shields.io/twitter/follow/axpa28?logo=twitterstyle=flat&color=brightgreen" alt="axpa28" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+## 🚀 Languages and Tools:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imparag28&show_icons=true&locale=en&layout=compact" alt="parag28" /></p>
+<!-- <p align="left"> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+     <img src="https://img.icons8.com/color/48/000000/solidty.png"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
+   <img src="https://img.icons8.com/color/48/000000/git.png"/> 
+  
+</p> -->
+ <p align="center" >
+  <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
+  </p>
 
-<br />
+<br/>
+<p align="center"><img alt="parag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imparag28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+       
+</p>
 
 ## 📊 My Github Stats
 
   <br/>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imparag28&show_icons=true&locale=en&theme=highcontrast" alt="imparag28" /></p>
-<br />
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubyroy21&show_icons=true&locale=en&theme=highcontrast" alt="Abhijeet9242" /></p>
+<br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imparag28&&theme=highcontrast" alt="imparag28" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -36,7 +68,7 @@
 
 <br/>
 <br/>
-<img alt="imparag28's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imparag28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="parag's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imparag28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <br/>
 <br/>
@@ -44,8 +76,8 @@
 ## Contact Me ☎️
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/parag-jagdale007/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- * Mail me on paragj2801@gmail.com
+<a href = "https://www.linkedin.com/in/paragj007/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ * Mail me on paragj28@gmail.com
 
 </p>
 
