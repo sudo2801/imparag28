@@ -21,9 +21,7 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Coding can “power up” your brain 😁**
 
 <br/>
-<br/>
-
-
+<br/>                                                                                                                                          
 <p align="center">
   <img src="https://gpvc.arturio.dev/imparag28" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=imparag28&style=flat&color=brightgreen"> -->
