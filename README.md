@@ -23,8 +23,6 @@
 <br/>
 <br/>                                                                                                                                          
 <p align="center">
-  <img src="https://gpvc.arturio.dev/imparag28" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=imparag28&style=flat&color=brightgreen"> -->
   <img src="https://img.shields.io/github/stars/imparag28?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
  <img src="https://img.shields.io/twitter/follow/axpa28?logo=twitterstyle=flat&color=brightgreen" alt="axpa28" />
 </p>
