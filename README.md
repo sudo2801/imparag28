@@ -54,15 +54,13 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imparag28&show_icons=true&locale=en&theme=highcontrast" alt="Abhijeet9242" /></p>
-<br>
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=spp96&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=spp96&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=spp96&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imparag28&&theme=highcontrast" alt="imparag28" /></p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=spp96&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <br/>
 <br/>
