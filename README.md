@@ -7,7 +7,7 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
-<h2 align="center">I'm Parag Jagadale, a Full-Stack Web Developer 👨‍💻 🚀</h2>  
+<h2 align="center">Parag Jagadale, a Full-Stack Web Developer 👨‍💻 🚀</h2>  
   <br/>
 <br/>
 <br/>
