@@ -51,16 +51,13 @@
 <p align="center"><img alt="parag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imparag28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
        
 </p>
-
-## 📊 My Github Stats
-
   # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=spp96&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=spp96&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spp96&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=imparag28&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imparag28&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imparag28&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=spp96&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=imparag28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <br/>
 <br/>
